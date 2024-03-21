@@ -30,6 +30,7 @@ $H_a$ There is a significant difference in average score on the WORDSUM test bet
 We want to predict WORDSUM based on DEGREE
 
 WORDSUM is a numerical variable 
+
 DEGREE is a categorical variable
 
 So we use the Numerical~Cat helper file
@@ -51,7 +52,7 @@ So we use the Numerical~Cat helper file
 boxplot(WORDSUM~DEGREE,data=GSS)
 ```
 
-
+The boxplot shows the people that scored the highest are Bachelor, Graduate, and Junior College.The people that scored the lowest are High School and less than High School. 
 
 ### Numerical Descriptive Results
 
