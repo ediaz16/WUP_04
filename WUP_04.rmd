@@ -63,6 +63,7 @@ favstats(WORDSUM~DEGREE,data=GSS)
 ```
 
 The table shows that the Graduate, and Bachelor have the highest average performance. The High School and less than High School had the lowest performance. 
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
@@ -82,4 +83,5 @@ The biggest differences are between Graduates and less than high school and bach
 
 # Discussion and Conclusion
 
+From box plot shows the people that scored the highest are Bachelor, Graduate, and Junior College.The people that scored the lowest are High School and less than High School.From the numerical results table shows that the Graduate, and Bachelor have the highest average performance. The High School and less than High School had the lowest performance.The inferential graph shows the P-value is 0.000236 which is less than 0.05 therefore we reject the null hypothesis. We conclude there is some difference in the WORDSUM score and level of education. From the tukey graph shows the biggest differences are between Graduates and less than high school and bachelors and less than high school.
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
